@@ -17,7 +17,7 @@ This web includes a very detailed instruction of how to train your own protein p
 **4. Prediction:** Just use the model you trained on Saprot for simple prediction, or you can also install it in local environment.
 
 ## Directory Structure
-- **`dataset/`**: Contains datasets for training and evaluation.
+- **`datasets/`**: Contains datasets for training and evaluation.
 - **`Proteome/`**: The proteome data we scanned in the article.
 
 ## Datasets
